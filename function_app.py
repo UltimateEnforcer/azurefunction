@@ -2,8 +2,6 @@ import azure.functions as func
 import datetime
 import json
 import logging
-import pymssql
-import pandas
 
 
 app = func.FunctionApp()
